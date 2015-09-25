@@ -5,7 +5,9 @@ package net.missdjoko.controlstatemens.transitionoperation;
  */
 public class TransitionOperators {
     public static void main(){
-        OperatorBREAKForOutFromCycle.main();
+      //  OperatorBREAKForOutFromCycle.main();
+       // OperatorBREAKAsGoTo.main();
+        OperatorCONTINUE.main();
 
 
     }
